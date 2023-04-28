@@ -1,0 +1,30 @@
+{
+  "name": "crc-emily",
+  "version": "1.0.0",
+  "description": "Método de redundancia cíclica",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "este",
+    "es",
+    "un",
+    "programa",
+    "que",
+    "realiza",
+    "el",
+    "cálculo",
+    "del",
+    "método",
+    "de",
+    "redundancia",
+    "cíclica",
+    "(CRC)",
+    "para",
+    "cualquier",
+    "polinomio"
+  ],
+  "author": "Emily Tench",
+  "license": "ISC"
+}
